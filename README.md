@@ -4,9 +4,9 @@ Sentiment Analysis with TensorFlow is a powerful approach for classifying movie 
 ## Attributes
 ```bash
   ➞ Imported movie reviews from IMDb and divided them into test and training sets.
-  ➞ Made 2 classes 'Positive' and 'Negative' to classify the movie reviews in.
+  ➞ Made 2 classes, 'Positive' and 'Negative', to classify the movie reviews in.
   ➞ Padded the movie reviews to make them all of the same length.
-  ➞ Created a Sequential model, trained the model and achieved a 84 % accuracy.
+  ➞ Created a Sequential model, trained the model and achieved an 84 % accuracy.
   ➞ Tested a review and the model classified the review as 'Negative' correctly.
 ```
 ## Screenshots
